@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif; background-image: linear-gradient(lawngreen,purple );border-radius: 10px;color: aliceblue;
+padding: 3px; 
+}
+.nop{background-color:  lawngreen;}
+h1{background-image: linear-gradient(lightgreen ,purple);border-radius: 10px;color: aliceblue;padding: 3px;
+}
+header{color: aliceblue}
+.link-header{background-image: linear-gradient(lightgreen ,purple);border-radius: 10px;color: aliceblue;
+padding: 3px;}
+.rt{color: aliceblue;}
+.rty{border: 6px;background-image: linear-gradient( rgb(116, 239, 72),rgb(113, 11, 113)  );color:white ;border-radius: 18px;
+padding: 7px;}
+.rtu{border: 6px;background-image: linear-gradient( rgb(116, 239, 72),rgb(113, 11, 113)  );color:white ;border-radius: 18px;
+padding: 7px;}
+.rti{border: 6px;background-image: linear-gradient( rgb(116, 239, 72),rgb(113, 11, 113)  );color:white ;border-radius: 18px;
+padding: 7px;}
+img{opacity: 0;transition:all 4s ease-in;}
+img:hover{ opacity: 1;transition: all 2s  ease-in;}
+.rty:hover{font-size: 40px;transition: all 2s  ease-in;border-radius: 17px;}
+.rti:hover{font-size: 40px;transition:  all 2s  ease-in;border-radius: 17px;}
+.rtu:hover{font-size: 40px;transition:  all 2s  ease-in;border-radius: 17px;}
